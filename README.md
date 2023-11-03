@@ -46,3 +46,10 @@ access key. Copy this and paste it into the `data-sb-form-api-token='API_TOKEN'`
 
 If you aren't using SB Forms, simply delete the custom data attributes from the form, and remove the link above the
 closing `</body>` tag to SB Forms.
+
+### About
+
+Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+https://startbootstrap.com
+https://twitter.com/SBootstrap
